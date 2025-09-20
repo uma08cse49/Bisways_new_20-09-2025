@@ -49,7 +49,7 @@ export default function Section4() {
 													</Link>
 												</div>
 												<div className="image">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -79,7 +79,7 @@ export default function Section4() {
 													</Link>
 												</div>
 												<div className="image">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"

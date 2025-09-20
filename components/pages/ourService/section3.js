@@ -52,7 +52,7 @@ export default function Section3() {
 									style={{ backgroundColor: "#0b1972" }}
 								>
 									<div className="image hover-1 hover-14">
-										<Image src="/images/widget/card-service-5.jpg" alt="" width={0} height={0} sizes="100vw"
+										<img src="/images/widget/card-service-5.jpg" alt="" width={0} height={0} sizes="100vw"
 											style={{ width: "100%", height: "auto" }} />
 									</div>
 									<div className="content text-white">
@@ -73,7 +73,7 @@ export default function Section3() {
 									style={{ backgroundColor: "#0b1972" }}
 								>
 									<div className="image hover-1 hover-14">
-										<Image src="/images/widget/card-service-6.jpg" alt="" width={0} height={0} sizes="100vw"
+										<img src="/images/widget/card-service-6.jpg" alt="" width={0} height={0} sizes="100vw"
 											style={{ width: "100%", height: "auto" }} />
 									</div>
 									<div className="content text-white">
@@ -94,7 +94,7 @@ export default function Section3() {
 									style={{ backgroundColor: "#0b1972" }}
 								>
 									<div className="image hover-1 hover-14">
-										<Image src="/images/widget/card-service-7.jpg" alt="" width={0} height={0} sizes="100vw"
+										<img src="/images/widget/card-service-7.jpg" alt="" width={0} height={0} sizes="100vw"
 											style={{ width: "100%", height: "auto" }} />
 									</div>
 									<div className="content text-white">
@@ -117,7 +117,7 @@ export default function Section3() {
 									style={{ backgroundColor: "#0b1972" }}
 								>
 									<div className="image hover-1 hover-14">
-										<Image src="/images/widget/card-service-8.jpg" alt="" width={0} height={0} sizes="100vw"
+										<img src="/images/widget/card-service-8.jpg" alt="" width={0} height={0} sizes="100vw"
 											style={{ width: "100%", height: "auto" }} />
 									</div>
 									<div className="content text-white">
@@ -138,7 +138,7 @@ export default function Section3() {
 									style={{ backgroundColor: "#0b1972" }}
 								>
 									<div className="image hover-1 hover-14">
-										<Image src="/images/widget/card-service-9.jpg" alt="" width={0} height={0} sizes="100vw"
+										<img src="/images/widget/card-service-9.jpg" alt="" width={0} height={0} sizes="100vw"
 											style={{ width: "100%", height: "auto" }} />
 									</div>
 									<div className="content text-white">
@@ -159,7 +159,7 @@ export default function Section3() {
 									style={{ backgroundColor: "#0b1972" }}
 								>
 									<div className="image hover-1 hover-14">
-										<Image src="/images/widget/card-service-10.jpg" alt="" width={0} height={0} sizes="100vw"
+										<img src="/images/widget/card-service-10.jpg" alt="" width={0} height={0} sizes="100vw"
 											style={{ width: "100%", height: "auto" }} />
 									</div>
 									<div className="content text-white">

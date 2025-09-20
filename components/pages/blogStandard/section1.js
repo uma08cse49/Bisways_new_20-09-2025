@@ -12,7 +12,7 @@ export default function Section1() {
 							<div className="content-section">
 								<div className="article-blog-item mb-50 tf-hover">
 									<div className="entry-image hover-14 hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -73,7 +73,7 @@ export default function Section1() {
 								</div>
 								<div className="article-blog-item mb-50 tf-hover">
 									<div className="entry-image hover-14 hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -146,7 +146,7 @@ export default function Section1() {
 								</div>
 								<div className="article-blog-item mb-50 tf-hover">
 									<div className="entry-image hover-14 hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -407,7 +407,7 @@ export default function Section1() {
 								<div className="sb-item sb-service">
 									<div className="tf-overlay" />
 									<div className="image">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"

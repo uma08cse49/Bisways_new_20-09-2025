@@ -24,7 +24,7 @@ export default function Section2() {
 								<div className="grid-layout-3 ">
 									<div className="card-member style-2 tf-hover ">
 										<div className="image hover-14 hover-1">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -60,7 +60,7 @@ export default function Section2() {
 									</div>
 									<div className="card-member style-2 tf-hover ">
 										<div className="image hover-14 hover-1">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -96,7 +96,7 @@ export default function Section2() {
 									</div>
 									<div className="card-member style-2 tf-hover ">
 										<div className="image hover-14 hover-1">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -132,7 +132,7 @@ export default function Section2() {
 									</div>
 									<div className="card-member style-2 tf-hover ">
 										<div className="image hover-14 hover-1">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -168,7 +168,7 @@ export default function Section2() {
 									</div>
 									<div className="card-member style-2 tf-hover ">
 										<div className="image hover-14 hover-1">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -204,7 +204,7 @@ export default function Section2() {
 									</div>
 									<div className="card-member style-2 tf-hover ">
 										<div className="image hover-14 hover-1">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -243,7 +243,7 @@ export default function Section2() {
 									<div className="grid-layout-3 ">
 										<div className="card-member style-2 tf-hover">
 											<div className="image hover-14 hover-1">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -279,7 +279,7 @@ export default function Section2() {
 										</div>
 										<div className="card-member style-2 tf-hover">
 											<div className="image hover-14 hover-1">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -315,7 +315,7 @@ export default function Section2() {
 										</div>
 										<div className="card-member style-2 tf-hover">
 											<div className="image hover-14 hover-1">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"

@@ -73,7 +73,7 @@ export default function BoxWelcome({ handleWelcomeBox, isWelcomeBox }) {
 					<div className="gallery-image">
 						<div className="image tf-hover">
 							<Link href="/#" className="hover-1 hover-2">
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"
@@ -83,7 +83,7 @@ export default function BoxWelcome({ handleWelcomeBox, isWelcomeBox }) {
 						</div>
 						<div className="image tf-hover">
 							<Link href="/#" className="hover-1 hover-2">
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"
@@ -93,7 +93,7 @@ export default function BoxWelcome({ handleWelcomeBox, isWelcomeBox }) {
 						</div>
 						<div className="image tf-hover">
 							<Link href="/#" className="hover-1 hover-2">
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"
@@ -103,7 +103,7 @@ export default function BoxWelcome({ handleWelcomeBox, isWelcomeBox }) {
 						</div>
 						<div className="image tf-hover">
 							<Link href="/#" className="hover-1 hover-2">
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"

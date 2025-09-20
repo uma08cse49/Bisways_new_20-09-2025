@@ -57,7 +57,7 @@ export default function Section1() {
 						<div className="col-lg-5">
 							<div className="image-wrap tf-hover">
 								<div className="image hover-1 ">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"
@@ -68,7 +68,7 @@ export default function Section1() {
 									<Link href="/#" className="mb-15">10m+ Customer</Link>
 									<ul className="list-author mb-40">
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -76,7 +76,7 @@ export default function Section1() {
 												src="/images/avatar/testimonial-author-1.jpg" alt="" />
 										</li>
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -84,7 +84,7 @@ export default function Section1() {
 												src="/images/avatar/customer-1.jpg" alt="" />
 										</li>
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -92,7 +92,7 @@ export default function Section1() {
 												src="/images/avatar/customer-3.jpg" alt="" />
 										</li>
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"

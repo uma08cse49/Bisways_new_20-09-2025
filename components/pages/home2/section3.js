@@ -57,7 +57,7 @@ export default function Section3() {
                   </p>
                   <div className="image hover-1">
                     <Link href="/service-details">
-                      <Image
+                      <img
                         src={serviceImages.cfo}
                         alt="Strategic Planning"
                         width={600}
@@ -164,7 +164,7 @@ export default function Section3() {
                   </p>
                   <div className="image hover-1">
                     <Link href="/service-details">
-                      <Image
+                      <img
                         src={serviceImages.registration}
                         alt="Financial Advisory"
                         width={600}
@@ -271,7 +271,7 @@ export default function Section3() {
                   </p>
                   <div className="image hover-1">
                     <Link href="/service-details">
-                      <Image
+                      <img
                         src={serviceImages.filings}
                         alt="Risk Management"
                         width={600}
@@ -378,7 +378,7 @@ export default function Section3() {
                   </p>
                   <div className="image hover-1">
                     <Link href="/service-details">
-                      <Image
+                      <img
                         src={serviceImages.audit}
                         alt="Leadership Development"
                         width={600}

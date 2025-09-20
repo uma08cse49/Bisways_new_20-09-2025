@@ -89,7 +89,7 @@ export default function Section6() {
 							<div className="card-member first tf-hover">
 								<Link href="/team-details">
 									<div className="image hover-14 hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -129,7 +129,7 @@ export default function Section6() {
 							<div className="card-member  tf-hover">
 								<Link href="/team-details">
 									<div className="image hover-14 hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -169,7 +169,7 @@ export default function Section6() {
 							<div className="card-member  tf-hover">
 								<Link href="/team-details">
 									<div className="image hover-14 hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -209,7 +209,7 @@ export default function Section6() {
 							<div className="card-member last tf-hover">
 								<Link href="/team-details">
 									<div className="image hover-14 hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -249,7 +249,7 @@ export default function Section6() {
 							<div className="card-member  tf-hover">
 								<Link href="/team-details">
 									<div className="image hover-14 hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -289,7 +289,7 @@ export default function Section6() {
 							<div className="card-member last tf-hover">
 								<Link href="/team-details">
 									<div className="image hover-14 hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"

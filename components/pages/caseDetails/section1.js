@@ -30,7 +30,7 @@ export default function Section1() {
 									</div>
 									<div className="entry-image-right tf-hover">
 										<div className="hover-1">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -67,7 +67,7 @@ export default function Section1() {
 									<div className="bg-image">
 										<div className="rellax" data-rellax-speed={1}>
 											<div className="hover-1">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -158,7 +158,7 @@ export default function Section1() {
 						<div className="bot">
 							<Link href="/#" className="btn-case prev">
 								<div className="image-wrap">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"
@@ -190,7 +190,7 @@ export default function Section1() {
 									<div className="icon style-circle">
 										<i className="icon-arrow-top-right" />
 									</div>
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"

@@ -35,7 +35,7 @@ export default function Section12() {
 										<div className="card-blog-item style-2 tf-hover">
 											<Link href="/blog-details">
 												<div className="entry-image hover-1 hover-14">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -81,7 +81,7 @@ export default function Section12() {
 										<div className="card-blog-item style-2 tf-hover">
 											<Link href="/blog-details">
 												<div className="entry-image hover-1 hover-14">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -128,7 +128,7 @@ export default function Section12() {
 										<div className="card-blog-item style-2 tf-hover">
 											<Link href="/blog-details">
 												<div className="entry-image hover-1 hover-14">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -174,7 +174,7 @@ export default function Section12() {
 										<div className="card-blog-item style-2 tf-hover">
 											<Link href="/blog-details">
 												<div className="entry-image hover-1 hover-14">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -221,7 +221,7 @@ export default function Section12() {
 										<div className="card-blog-item style-2 tf-hover">
 											<Link href="/blog-details">
 												<div className="entry-image hover-1 hover-14">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"

@@ -36,7 +36,7 @@ export default function Section2() {
 			<div className="tf-overlay" />
 			<div className="bg-image">
 				<div className="rellax" data-rellax-speed="0.3">
-					<Image
+					<img
 						width="0"
 						height="0"
 						sizes="100vw"

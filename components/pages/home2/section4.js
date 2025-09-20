@@ -73,7 +73,7 @@ export default function Section4() {
 							</div>
 							<div className="col-lg-6">
 								<div className="video-wrap style-2 ">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"

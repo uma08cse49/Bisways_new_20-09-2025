@@ -19,7 +19,7 @@ export default function Section1() {
 							<div className="content">
 								<div className="entry-image tf-hover mb-40">
 									<div className="hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -105,7 +105,7 @@ export default function Section1() {
 									</li>
 								</ul>
 								<div className="entry-image-2 mb-40">
-									<div className="image"><Image
+									<div className="image"><img
 										width="0"
 										height="0"
 										sizes="100vw"

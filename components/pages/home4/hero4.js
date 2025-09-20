@@ -9,7 +9,7 @@ export default function Hero4() {
 			<div className="page-title-home-4 ">
 				<div className="tf-overlay" />
 				<div className="image overflow-hidden">
-					<Image
+					<img
 						width="0"
 						height="0"
 						sizes="100vw"
@@ -54,7 +54,7 @@ export default function Hero4() {
 										<Link href="/#" className="mb-15">10m+ Customer</Link>
 										<ul className="list-author mb-40">
 											<li>
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -62,7 +62,7 @@ export default function Hero4() {
 													src="/images/avatar/testimonial-author-1.jpg" alt="" />
 											</li>
 											<li>
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -70,7 +70,7 @@ export default function Hero4() {
 													src="/images/avatar/customer-1.jpg" alt="" />
 											</li>
 											<li>
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -78,7 +78,7 @@ export default function Hero4() {
 													src="/images/avatar/customer-3.jpg" alt="" />
 											</li>
 											<li>
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"

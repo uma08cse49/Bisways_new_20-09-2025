@@ -13,7 +13,7 @@ export default function Section2() {
 			<section className="s-cta-3">
 				<div className="bg-image">
 					<div className="rellax" data-rellax-speed="0.5" data-bleed={5}>
-						<Image
+						<img
 							width="0"
 							height="0"
 							sizes="100vw"

@@ -16,7 +16,7 @@ export default function Section1() {
 										<ul className="image-customer-list">
 											<li>
 												<div className="img-avt">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -26,7 +26,7 @@ export default function Section1() {
 											</li>
 											<li>
 												<div className="img-avt">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -36,7 +36,7 @@ export default function Section1() {
 											</li>
 											<li>
 												<div className="img-avt">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"

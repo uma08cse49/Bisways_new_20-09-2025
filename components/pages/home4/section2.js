@@ -34,7 +34,7 @@ export default function Section2() {
 								</p>
 								<div className="video-wrap style-3">
 									<div className="tf-overlay" />
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"

@@ -9,7 +9,7 @@ export default function Section1() {
 					<div className="row">
 						<div className="col-lg-5">
 							<div className="image">
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"

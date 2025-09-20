@@ -50,7 +50,7 @@ export default function Section7() {
               <div className="content-wrap">
                 <div className="image tf-hover">
                   <div className="hover-1">
-                    <Image
+                    <img
                       width="0"
                       height="0"
                       sizes="100vw"

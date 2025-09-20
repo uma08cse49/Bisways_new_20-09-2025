@@ -74,7 +74,7 @@ export default function Section6() {
 							<div className="content-left s1">
 								<div className="image-wrap">
 									<div className="image">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -115,7 +115,7 @@ export default function Section6() {
 											</Link>
 											<ul>
 												<li>
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -123,7 +123,7 @@ export default function Section6() {
 														src="/images/avatar/testimonial-author-1.jpg" alt="" />
 												</li>
 												<li>
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -131,7 +131,7 @@ export default function Section6() {
 														src="/images/avatar/customer-1.jpg" alt="" />
 												</li>
 												<li>
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -139,7 +139,7 @@ export default function Section6() {
 														src="/images/avatar/customer-3.jpg" alt="" />
 												</li>
 												<li>
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -147,7 +147,7 @@ export default function Section6() {
 														src="/images/avatar/customer-4.jpg" alt="" />
 												</li>
 												<li>
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -165,7 +165,7 @@ export default function Section6() {
 				<div className="content-left s2">
 					<div className="image-wrap">
 						<div className="image">
-							<Image
+							<img
 								width="0"
 								height="0"
 								sizes="100vw"
@@ -206,7 +206,7 @@ export default function Section6() {
 								</Link>
 								<ul>
 									<li>
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -214,7 +214,7 @@ export default function Section6() {
 											src="/images/avatar/testimonial-author-1.jpg" alt="" />
 									</li>
 									<li>
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -222,7 +222,7 @@ export default function Section6() {
 											src="/images/avatar/customer-1.jpg" alt="" />
 									</li>
 									<li>
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -230,7 +230,7 @@ export default function Section6() {
 											src="/images/avatar/customer-3.jpg" alt="" />
 									</li>
 									<li>
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -238,7 +238,7 @@ export default function Section6() {
 											src="/images/avatar/customer-4.jpg" alt="" />
 									</li>
 									<li>
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"

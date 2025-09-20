@@ -15,7 +15,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, handle
 								<div className="header-left">
 									<div className="logo-site">
 										<Link href="/">
-											<Image
+											<img
 												width="139"
 												height="39"
 												// sizes="100vw"

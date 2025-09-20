@@ -107,7 +107,7 @@ export default function Section8() {
 									<div className="swiper-wrapper">
 										<SwiperSlide>
 											<div className="image">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -117,7 +117,7 @@ export default function Section8() {
 										</SwiperSlide>
 										<SwiperSlide>
 											<div className="image">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"

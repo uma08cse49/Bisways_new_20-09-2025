@@ -71,7 +71,7 @@ export default function Section4() {
 										</div>
 										<div className="image tf-hover">
 											<div className="hover-1">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -124,7 +124,7 @@ export default function Section4() {
 										</div>
 										<div className="image tf-hover">
 											<div className="hover-1">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -177,7 +177,7 @@ export default function Section4() {
 										</div>
 										<div className="image tf-hover">
 											<div className="hover-1">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -230,7 +230,7 @@ export default function Section4() {
 										</div>
 										<div className="image tf-hover">
 											<div className="hover-1">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"

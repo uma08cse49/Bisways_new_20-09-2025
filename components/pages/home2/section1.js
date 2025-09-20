@@ -51,7 +51,7 @@ export default function Section1() {
                 {/* Left Image */}
                 <div className="image-1 tf-hover">
                   <div className="hover-1">
-                    <Image
+                    <img
                       width="0"
                       height="0"
                       sizes="100vw"
@@ -68,7 +68,7 @@ export default function Section1() {
               {/* Right Image */}
               <div className="image-right tf-hover">
                 <div className="image-2 hover-1">
-                  <Image
+                  <img
                     width="0"
                     height="0"
                     sizes="100vw"

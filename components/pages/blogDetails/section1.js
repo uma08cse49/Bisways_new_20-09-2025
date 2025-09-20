@@ -12,7 +12,7 @@ export default function Section1() {
 							<div className="content ">
 								<div className="entry-image tf-hover mb-40 ">
 									<div className="hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -129,7 +129,7 @@ export default function Section1() {
 									<div className="image tf-hover wow fadeInUp" data-wow-delay="0s">
 										<div className="hover-14 hover-5">
 											<figure>
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -141,7 +141,7 @@ export default function Section1() {
 									<div className="image tf-hover wow fadeInUp" data-wow-delay="0.1s">
 										<div className="hover-14 hover-5">
 											<figure>
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -215,7 +215,7 @@ export default function Section1() {
 								</div>
 								<div className="author-post mb-70">
 									<div className="entry-image-author wow zoomIn">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -261,7 +261,7 @@ export default function Section1() {
 								<div className="btn-blog-group mb-70">
 									<div className="btn-next btn-blog tf-hover">
 										<div className="image hover-2">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -284,7 +284,7 @@ export default function Section1() {
 									</div>
 									<div className="btn-prev btn-blog tf-hover">
 										<div className="image hover-2">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -535,7 +535,7 @@ export default function Section1() {
 								<div className="sb-item sb-service">
 									<div className="tf-overlay" />
 									<div className="image">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"

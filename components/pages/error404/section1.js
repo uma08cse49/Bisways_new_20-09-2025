@@ -11,7 +11,7 @@ export default function Section1() {
 						<div className="col-lg-12">
 							<div className="content">
 								<div className="image">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"

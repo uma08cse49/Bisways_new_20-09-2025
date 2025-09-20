@@ -56,7 +56,7 @@ export default function Footer2() {
 									<div className="logo-site">
 										<Link href="/">
 										{/* LOGO */}
-											<Image
+											<img
 												width="139"
 												height="39"
 												// sizes="100vw"

@@ -139,7 +139,7 @@ export default function Section7() {
 									</div>
 									<div className="image-left">
 										<div className="image">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -172,7 +172,7 @@ export default function Section7() {
 									</div>
 									<div className="image-left">
 										<div className="image">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"

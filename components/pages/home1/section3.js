@@ -20,7 +20,7 @@ export default function Section3() {
 								</p>
 								<div className="image tf-hover mb-40">
 									<div className="hover-1 hover-14">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"

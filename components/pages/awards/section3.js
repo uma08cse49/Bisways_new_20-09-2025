@@ -25,7 +25,7 @@ export default function Section3() {
 								<div className="wg-testimonial style-4 tf-hover">
 									<div className="top">
 										<div className="image hover-1">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -55,7 +55,7 @@ export default function Section3() {
 								<div className="wg-testimonial style-4 tf-hover">
 									<div className="top">
 										<div className="image hover-1">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -85,7 +85,7 @@ export default function Section3() {
 								<div className="wg-testimonial style-4 tf-hover">
 									<div className="top">
 										<div className="image hover-1">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -115,7 +115,7 @@ export default function Section3() {
 								<div className="wg-testimonial style-4 tf-hover">
 									<div className="top">
 										<div className="image hover-1">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"

@@ -50,7 +50,7 @@ export default function Section1() {
 					</div>
 					<div className="image-right">
 						<div className="image">
-							<Image
+							<img
 								width="0"
 								height="0"
 								sizes="100vw"
@@ -62,7 +62,7 @@ export default function Section1() {
 				<div className="content-wrap wrap-2">
 					<div className="image-left relative">
 						<div className="image ">
-							<Image
+							<img
 								width="0"
 								height="0"
 								sizes="100vw"

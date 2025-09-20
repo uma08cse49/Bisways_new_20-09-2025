@@ -63,7 +63,7 @@ export default function Section5() {
 										<div className="wg-our-saylo">
 											<div className="image-left ">
 												<div className="image">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -77,7 +77,7 @@ export default function Section5() {
 													<p className="text">
 														Your total saving so far
 													</p>
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -140,7 +140,7 @@ export default function Section5() {
 										<div className="wg-our-saylo">
 											<div className="image-left">
 												<div className="image">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -154,7 +154,7 @@ export default function Section5() {
 													<p className="text">
 														Your total saving so far
 													</p>
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -217,7 +217,7 @@ export default function Section5() {
 										<div className="wg-our-saylo">
 											<div className="image-left">
 												<div className="image">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -231,7 +231,7 @@ export default function Section5() {
 													<p className="text">
 														Your total saving so far
 													</p>
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"

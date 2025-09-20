@@ -74,7 +74,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -106,7 +106,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -136,7 +136,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -166,7 +166,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -203,7 +203,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -235,7 +235,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -265,7 +265,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -295,7 +295,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -332,7 +332,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -364,7 +364,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -394,7 +394,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -424,7 +424,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -461,7 +461,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -493,7 +493,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -523,7 +523,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -553,7 +553,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -590,7 +590,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -622,7 +622,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -652,7 +652,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -682,7 +682,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -719,7 +719,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -751,7 +751,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -781,7 +781,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"
@@ -811,7 +811,7 @@ export default function Section5() {
 												<SwiperSlide>
 													<div className="card-case tf-hover overflow-hidden relative">
 														<div className="image hover-5">
-															<Image
+															<img
 																width="0"
 																height="0"
 																sizes="100vw"

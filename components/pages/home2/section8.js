@@ -32,7 +32,7 @@ export default function Section8() {
 										<div className="card-blog-item style-4 tf-hover">
 											<Link href="/blog-details">
 												<div className="entry-image mb-30 hover-1 hover-14">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -74,7 +74,7 @@ export default function Section8() {
 										<div className="card-blog-item style-4 tf-hover">
 											<Link href="/blog-details">
 												<div className="entry-image mb-30 hover-1 hover-14">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -116,7 +116,7 @@ export default function Section8() {
 										<div className="card-blog-item style-4 tf-hover">
 											<Link href="/blog-details">
 												<div className="entry-image mb-30 hover-1 hover-14">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -158,7 +158,7 @@ export default function Section8() {
 										<div className="card-blog-item style-4 tf-hover">
 											<Link href="/blog-details">
 												<div className="entry-image mb-30 hover-1 hover-14">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"

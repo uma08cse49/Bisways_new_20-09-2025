@@ -92,7 +92,7 @@ export default function Section1() {
 									<p className="text" style={{ backgroundColor: "#e6ac41",padding:"20px",borderRadius:"20px" }}>{item.text}</p>
 									<div className="image">
 										<Link href="/service-details">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"

@@ -34,7 +34,7 @@ export default function Section8() {
 									<SwiperSlide>
 										<div className="card-guide tf-hover">
 											<div className="image hover-1 hover-14">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -75,7 +75,7 @@ export default function Section8() {
 									<SwiperSlide>
 										<div className="card-guide tf-hover">
 											<div className="image hover-1 hover-14">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -116,7 +116,7 @@ export default function Section8() {
 									<SwiperSlide>
 										<div className="card-guide tf-hover">
 											<div className="image hover-1 hover-14">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -157,7 +157,7 @@ export default function Section8() {
 									<SwiperSlide>
 										<div className="card-guide tf-hover">
 											<div className="image hover-1 hover-14">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"

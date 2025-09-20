@@ -64,7 +64,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -93,7 +93,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover ">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -122,7 +122,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -151,7 +151,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover ">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -180,7 +180,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -209,7 +209,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover ">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -238,7 +238,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -267,7 +267,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover ">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -300,7 +300,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -329,7 +329,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -358,7 +358,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -387,7 +387,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -416,7 +416,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -445,7 +445,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -474,7 +474,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -503,7 +503,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -536,7 +536,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -565,7 +565,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -594,7 +594,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -623,7 +623,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -652,7 +652,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -681,7 +681,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -710,7 +710,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -739,7 +739,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -772,7 +772,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -801,7 +801,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -830,7 +830,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -859,7 +859,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -888,7 +888,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -917,7 +917,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -946,7 +946,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -975,7 +975,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -1008,7 +1008,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -1037,7 +1037,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -1066,7 +1066,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -1095,7 +1095,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -1124,7 +1124,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -1153,7 +1153,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -1182,7 +1182,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -1211,7 +1211,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -1244,7 +1244,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -1273,7 +1273,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -1302,7 +1302,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -1331,7 +1331,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -1360,7 +1360,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -1389,7 +1389,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -1418,7 +1418,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -1447,7 +1447,7 @@ export default function Section1() {
 												<div className="card-project style-2 tf-hover">
 													<div className="tf-overlay" />
 													<div className="image hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"

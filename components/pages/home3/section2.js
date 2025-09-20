@@ -13,7 +13,7 @@ export default function Section2() {
 							<div className="content-left">
 								<div className="image s1 tf-hover">
 									<div className="hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -23,7 +23,7 @@ export default function Section2() {
 								</div>
 								<div className="image s2 tf-hover">
 									<div className="hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -33,7 +33,7 @@ export default function Section2() {
 								</div>
 								<div className="image s3 tf-hover">
 									<div className="hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -104,7 +104,7 @@ export default function Section2() {
 									</Link>
 									<div className="author-wrap">
 										<div className="img-avt">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"

@@ -30,7 +30,7 @@ export default function Section10() {
 										<div className="card-blog-item tf-hover">
 											<Link href="/blog-details">
 												<div className="entry-image mb-30 hover-1 hover-14">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -79,7 +79,7 @@ export default function Section10() {
 										<div className="card-blog-item tf-hover">
 											<Link href="/blog-details">
 												<div className="entry-image mb-30 hover-1 hover-14">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -128,7 +128,7 @@ export default function Section10() {
 										<div className="card-blog-item tf-hover">
 											<Link href="/blog-details">
 												<div className="entry-image mb-30 hover-1 hover-14">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -177,7 +177,7 @@ export default function Section10() {
 										<div className="card-blog-item tf-hover">
 											<Link href="/blog-details">
 												<div className="entry-image mb-30 hover-1 hover-14">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -226,7 +226,7 @@ export default function Section10() {
 										<div className="card-blog-item tf-hover">
 											<Link href="/blog-details">
 												<div className="entry-image mb-30 hover-1 hover-14">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"

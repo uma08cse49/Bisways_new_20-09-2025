@@ -17,7 +17,7 @@ export default function Section1() {
 										<div className="box-icon style-4 tf-hover-icon">
 											<Link href="/service-details">
 												<div className="image-wrap">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -44,7 +44,7 @@ export default function Section1() {
 										<div className="box-icon style-4 tf-hover-icon">
 											<Link href="/service-details">
 												<div className="image-wrap">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -70,7 +70,7 @@ export default function Section1() {
 										<div className="box-icon style-4 tf-hover-icon">
 											<Link href="/service-details">
 												<div className="image-wrap">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -96,7 +96,7 @@ export default function Section1() {
 										<div className="box-icon style-4 tf-hover-icon">
 											<Link href="/service-details">
 												<div className="image-wrap">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"
@@ -123,7 +123,7 @@ export default function Section1() {
 										<div className="box-icon style-4 tf-hover-icon">
 											<Link href="/service-details">
 												<div className="image-wrap">
-													<Image
+													<img
 														width="0"
 														height="0"
 														sizes="100vw"

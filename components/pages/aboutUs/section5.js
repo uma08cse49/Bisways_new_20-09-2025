@@ -109,7 +109,7 @@ export default function Section5() {
 									<Link href="/#" className="mb-15">10m+ Customer</Link>
 									<ul className="list-author">
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -117,7 +117,7 @@ export default function Section5() {
 												src="/images/avatar/testimonial-author-1.jpg" alt="" />
 										</li>
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -125,7 +125,7 @@ export default function Section5() {
 												src="/images/avatar/customer-1.jpg" alt="" />
 										</li>
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -133,7 +133,7 @@ export default function Section5() {
 												src="/images/avatar/customer-3.jpg" alt="" />
 										</li>
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -141,7 +141,7 @@ export default function Section5() {
 												src="/images/avatar/customer-4.jpg" alt="" />
 										</li>
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -162,7 +162,7 @@ export default function Section5() {
 							<div className="col-lg-8">
 								<div className="image tf-hover">
 									<div className="hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -182,7 +182,7 @@ export default function Section5() {
 									<div className="swiper-wrapper">
 										<SwiperSlide>
 											<div className="image">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -192,7 +192,7 @@ export default function Section5() {
 										</SwiperSlide>
 										<SwiperSlide>
 											<div className="image">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"

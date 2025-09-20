@@ -35,7 +35,7 @@ export default function Section1() {
 										width: "100%",
 										height: "100%",
 									}}>
-										{/* <Image
+										{/* <img
 											width="0"
 											height="0"
 											sizes="100vw"

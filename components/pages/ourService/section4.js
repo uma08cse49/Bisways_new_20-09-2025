@@ -11,7 +11,7 @@ export default function Section4() {
 			<section className="s-process-2 tf-spacing-1">
 				<div className="bg-image">
 					<div className="rellax" data-rellax-speed="0.5" data-bleed={5}>
-						<Image
+						<img
 							width="0"
 							height="0"
 							sizes="100vw"

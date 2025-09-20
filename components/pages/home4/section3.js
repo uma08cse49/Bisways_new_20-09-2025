@@ -7,7 +7,7 @@ export default function Section3() {
 
 			<section className="s-cta-2">
 				<div className="image">
-					<Image
+					<img
 						width="0"
 						height="0"
 						sizes="100vw"

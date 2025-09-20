@@ -13,7 +13,7 @@ export default function Section5() {
 						<SwiperSlide>
 							<div className="box-project tf-hover hover-fade-text">
 								<div className="image hover-1">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"
@@ -46,7 +46,7 @@ export default function Section5() {
 						<SwiperSlide>
 							<div className="box-project tf-hover hover-fade-text">
 								<div className="image hover-1">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"
@@ -80,7 +80,7 @@ export default function Section5() {
 						<SwiperSlide>
 							<div className="box-project tf-hover hover-fade-text">
 								<div className="image hover-1">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"
@@ -114,7 +114,7 @@ export default function Section5() {
 						<SwiperSlide>
 							<div className="box-project tf-hover hover-fade-text">
 								<div className="image hover-1">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"

@@ -90,7 +90,7 @@ export default function Section4() {
 						<div className="col-lg-6 offset-lg-1">
 							<div className="image-wrap">
 								<div className="image">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"
@@ -101,7 +101,7 @@ export default function Section4() {
 									<Link href="/#" className="mb-15">10m+ Customer</Link>
 									<ul className="list-author mb-40">
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -109,7 +109,7 @@ export default function Section4() {
 												src="/images/avatar/testimonial-author-1.jpg" alt="" />
 										</li>
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -117,7 +117,7 @@ export default function Section4() {
 												src="/images/avatar/customer-1.jpg" alt="" />
 										</li>
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -125,7 +125,7 @@ export default function Section4() {
 												src="/images/avatar/customer-3.jpg" alt="" />
 										</li>
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"

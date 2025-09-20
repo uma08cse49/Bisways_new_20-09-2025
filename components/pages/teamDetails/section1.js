@@ -13,7 +13,7 @@ export default function Section1() {
 							<div className="profile">
 								<div className="entry-avatar tf-hover">
 									<div className="hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -245,13 +245,13 @@ export default function Section1() {
 								</p>
 								<div className="wg-partner style-2">
 									<Link href="/#">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height: "auto" }}
 											className="img1" src="/images/partner/quora.png" alt="" />
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -259,13 +259,13 @@ export default function Section1() {
 											className="img2" src="/images/partner/quora.png" alt="" />
 									</Link>
 									<Link href="/#">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height: "auto" }}
 											className="img1" src="/images/partner/rakuten.png" alt="" />
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -273,13 +273,13 @@ export default function Section1() {
 											className="img2" src="/images/partner/rakuten.png" alt="" />
 									</Link>
 									<Link href="/#">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height: "auto" }}
 											className="img1" src="/images/partner/consumer_reports.png" alt="" />
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -287,13 +287,13 @@ export default function Section1() {
 											className="img2" src="/images/partner/consumer_reports.png" alt="" />
 									</Link>
 									<Link href="/#">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height: "auto" }}
 											className="img1" src="/images/partner/forbes.png" alt="" />
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -301,13 +301,13 @@ export default function Section1() {
 											className="img2" src="/images/partner/forbes.png" alt="" />
 									</Link>
 									<Link href="/#">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height: "auto" }}
 											className="img1" src="/images/partner/hubspot.png" alt="" />
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -315,13 +315,13 @@ export default function Section1() {
 											className="img2" src="/images/partner/hubspot.png" alt="" />
 									</Link>
 									<Link href="/#">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height: "auto" }}
 											className="img1" src="/images/partner/roku.png" alt="" />
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"

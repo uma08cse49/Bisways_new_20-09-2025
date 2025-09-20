@@ -14,7 +14,7 @@ export default function Section10() {
 								</div>
 								<div className="bg-image">
 									<div className="rellax" data-rellax-speed="0.3">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"

@@ -27,7 +27,7 @@ export default function Hero3() {
 					</div>
 					<div className="image-right">
 						<div className="image">
-							<Image
+							<img
 								width="0"
 								height="0"
 								sizes="100vw"
@@ -38,7 +38,7 @@ export default function Hero3() {
 							<div className=" wow zoomIn">
 								<h6 className="caption mb-20">2 more steps to finish</h6>
 								<div className="relative">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"
@@ -53,7 +53,7 @@ export default function Hero3() {
 						<div className="image-item img-item-2 default rellax" data-rellax-speed="-0.5">
 							<div className="wow zoomIn">
 								<h6 className="caption">Sales Performance</h6>
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"

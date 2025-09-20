@@ -53,7 +53,7 @@ export default function Section2() {
 							<div className="col-lg-5 offset-lg-1">
 								<div className="image-wrap">
 									<div className="image">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"

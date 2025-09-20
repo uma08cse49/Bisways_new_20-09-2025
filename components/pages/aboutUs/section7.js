@@ -14,13 +14,13 @@ export default function Section7() {
 						<SwiperSlide>
 							<Link href="/#">
 								<span className="tf-overlay" />
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"
 									style={{ width: "100%", height: "auto" }}
 									className="img1" src="/images/partner/quora.png" alt="" />
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"
@@ -31,13 +31,13 @@ export default function Section7() {
 						<SwiperSlide>
 							<Link href="/#">
 								<span className="tf-overlay" />
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"
 									style={{ width: "100%", height: "auto" }}
 									className="img1" src="/images/partner/rakuten.png" alt="" />
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"
@@ -48,13 +48,13 @@ export default function Section7() {
 						<SwiperSlide>
 							<Link href="/#">
 								<span className="tf-overlay" />
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"
 									style={{ width: "100%", height: "auto" }}
 									className="img1" src="/images/partner/consumer_reports.png" alt="" />
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"
@@ -65,13 +65,13 @@ export default function Section7() {
 						<SwiperSlide>
 							<Link href="/#">
 								<span className="tf-overlay" />
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"
 									style={{ width: "100%", height: "auto" }}
 									className="img1" src="/images/partner/forbes.png" alt="" />
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"
@@ -82,13 +82,13 @@ export default function Section7() {
 						<SwiperSlide>
 							<Link href="/#">
 								<span className="tf-overlay" />
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"
 									style={{ width: "100%", height: "auto" }}
 									className="img1" src="/images/partner/hubspot.png" alt="" />
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"
@@ -99,13 +99,13 @@ export default function Section7() {
 						<SwiperSlide>
 							<Link href="/#">
 								<span className="tf-overlay" />
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"
 									style={{ width: "100%", height: "auto" }}
 									className="img1" src="/images/partner/roku.png" alt="" />
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"

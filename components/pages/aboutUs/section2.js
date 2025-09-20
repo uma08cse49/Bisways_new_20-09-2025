@@ -79,7 +79,7 @@ export default function Section2() {
 						<div className="col-lg-5 slide-bottom">
 							<div className="image tf-hover">
 								<div className="hover-1">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"
