@@ -55,8 +55,14 @@ export default function Footer4() {
 								<div className="footer-inner-wrap">
 									<div className="logo-site">
 										<Link href="/">
-										LOGO
-											</Link>
+										{/* LOGO */}
+											<Image
+												width="139"
+												height="39"
+												// sizes="100vw"
+												style={{ width: "110%", height: "auto" }}
+												id="logo_header" src="/images/logo/bisways-logo-white.png" data-retina="./images/logo/logo-2@2x.png" alt="" />
+										</Link>
 									</div>
 									<p className="text mb-70">
 										Consulting agency serves strategic businesses looking

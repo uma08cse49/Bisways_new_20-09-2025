@@ -15,12 +15,12 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 								<div className="header-left">
 									<div className="logo-site">
 										<Link href="/">
-											{/* <Image
+											<Image
 												width="139"
 												height="39"
 												// sizes="100vw"
 												// style={{ width: "100%", height: "auto" }}
-												id="logo_header" src="/images/logo/logo-2.png" data-retina="./images/logo/logo-2@2x.png" alt="" /> */}
+												id="logo_header" src="/images/logo/bisways-logo.png" data-retina="./images/logo/logo-2@2x.png" alt="" />
 										</Link>
 									</div>
 								</div>
